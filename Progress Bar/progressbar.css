@@ -1,1 +1,35 @@
+.stage0{
+    position: absolute;
+    margin-top: 15px;
+    background-color: gray;
+    width: 300px;
+    border-radius: 20px;
+}
 
+.stage1{
+    position: absolute;
+    margin-top: 15px;
+    background-color: rgb(237, 33, 33);
+    width: 33%;
+    border-radius: 20px;
+}
+.stage2{
+    position: absolute;
+    margin-top: 15px;
+    background-color: rgb(237, 233, 33);
+    width: 67%;
+    border-radius: 20px;
+}
+
+.stage3{
+    position: absolute;
+    margin-top: 15px;
+    background-color: rgb(47, 237, 33);
+    width: 300px;
+    border-radius: 20px;
+}
+
+.progressbar{
+    margin-top: 150px;
+    margin-left: 100px;
+}
