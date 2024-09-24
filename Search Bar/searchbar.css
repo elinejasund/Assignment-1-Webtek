@@ -1,1 +1,30 @@
+.container{
+    margin-left: 540px;
+    margin-top: 100px;
+    height: 70px;
+    width: 300px;
+    background-color: beige;
+    border-radius: 35px;
+    border-color:pink;
+    border-style: solid;
+    border-width: 5px;
+    }
 
+#search-field{
+    margin: 10;
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    border-radius: 20px;
+    border-color: rgb(17, 17, 16);
+    border-style: solid;
+    border-width: 3px;
+    transition: width 0.3s ease-in;
+}
+
+#search-field:focus{
+    border-color: rgba(0, 102, 255, 0.988);
+    height: 50px;
+    width: 280px;
+    border-width: 5;
+}
