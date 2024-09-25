@@ -1,0 +1,44 @@
+#target{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+    margin: 100;
+    justify-items: center;
+    align-items: center;
+
+}
+
+.sirkel{
+    display: flex;
+    position: absolute;
+}
+.sort{
+    background-color: purple;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-left: 25px;
+}
+.blå{
+    background-color: plum;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+.rød{
+    background-color: rgb(235, 217, 235);
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 80px;
+}
+.gul{
+    background-color: rgb(250, 242, 250);
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 110px;
+    visibility: hidden;
+}
