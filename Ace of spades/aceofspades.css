@@ -19,7 +19,7 @@
 }
 .top{
     margin-left: 10px;
-    font-size: 40px;
+    font-size: 50px;
     grid-area: top;
 }
 
@@ -32,7 +32,7 @@
 
 .bottom{
     margin-right: 10px;
-    font-size: 40px;
+    font-size: 50px;
     grid-area: bottom;
     transform: rotate(180deg);
 }
