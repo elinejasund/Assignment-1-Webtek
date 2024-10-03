@@ -4,31 +4,31 @@
 }
 
 .Default{
+    height: 20px;
     position: absolute;
     width: 300px;
     background-color: grey;
     border-radius: 20px;
-    -webkit-text-fill-color: gray;
 }
-.stage1{
+.Stage1{
+    height: 20px;
     position: absolute;
     background-color: rgb(237, 33, 33);
     width: 99px;
     border-radius: 20px;
-    -webkit-text-fill-color: rgb(237, 33, 33);
 }
-.stage2{
+.Stage2{
+    height: 20px;
     position: absolute;
     background-color: rgb(237, 233, 33);
     width: 201px;
     border-radius: 20px;
-    -webkit-text-fill-color: rgb(237, 233, 33);
 }
 
-.stage3{
+.Stage3{
+    height: 20px;
     position: absolute;
     background-color: rgb(47, 237, 33);
     width: 300px;
     border-radius: 20px;
-    -webkit-text-fill-color: rgb(47, 237, 33);
 }
