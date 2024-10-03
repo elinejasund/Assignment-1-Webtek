@@ -24,8 +24,8 @@
 }
 
 .center{
-    margin-left: 150;
-    font-size: 200;
+    margin-left: 150px;
+    font-size: 200px;
     align-content: center;
     grid-area: center;
 }
