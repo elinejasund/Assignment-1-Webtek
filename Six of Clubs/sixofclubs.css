@@ -44,7 +44,7 @@
     transform: rotate(180deg);
 }
 
-#flip{
+.flip{
     transform: rotate(180deg);
     margin-right: 17.5px;
 }
