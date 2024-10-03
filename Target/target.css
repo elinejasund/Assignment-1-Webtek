@@ -16,19 +16,23 @@
     background-color: purple;
     height: 250px;
     width: 250px;
+    margin: 25px;
 }
 .to{
     background-color: plum;
     height: 185px;
     width: 185px; 
+    margin: 57.5px;
 }
 .tre{
     background-color: rgb(235, 217, 235);
     height: 115px;
-    width: 115px;
+    width: 120px;
+    margin: 90px;
 }
 .fire{
     background-color: rgb(250, 242, 250);
     height: 60px;
     width: 60px;
+    margin: 120px;
 }
