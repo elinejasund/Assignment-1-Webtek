@@ -11,12 +11,12 @@
     height: 600px;
     width: 400px;
 
-    grid-template-rows: 100px 400px 100px;
+    grid-template-columns: 75px 250px 75px;
 
-    grid-template-areas: "left" 
-                         "middle"
-                         "right";
+    grid-template-areas: "left" "middle" "right";
+                         
 }
+                         
 .left{
     margin-left: 10px;
     font-size: 50px;
@@ -27,7 +27,8 @@
     display:grid;
     height: 400px;
     font-size: 125px;
-    margin-left: 80px;
+    margin-left: 79px;
+    margin-top: -60px;
     align-content: center;
     grid-area: middle;
     grid-template-columns: 100px 100px;
@@ -38,11 +39,12 @@
 .right{
     font-size: 50px;
     grid-area: right;
-    margin-right: 10px;
+    margin-right: -315px;
+    margin-top: -600px;
     transform: rotate(180deg);
 }
 
 #flip{
     transform: rotate(180deg);
-    margin-right: 15px;
+    margin-right: 17.5px;
 }
